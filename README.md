@@ -1,12 +1,5 @@
 # Games in Java - Object-Oriented Programming with JavaFX
 
-Hi, I'm Peter. I created this project
-to show my idea about
-how to use **Object-Oriented Programming (OOP)** concepts
-in Java using JavaFX through a series of popular game examples. 
-
-I have an youtube channel as well https://www.youtube.com/@code_quality_principles
-
 ### Course Overview
 
 This course, *Mastering Object-Oriented Programming in Java*, 
