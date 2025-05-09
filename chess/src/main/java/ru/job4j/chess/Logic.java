@@ -25,7 +25,7 @@ public final class Logic {
         for (Cell step : steps) {
             for (Figure figure : figures) {
                 if (figure.position().equals(step)) {
-                    throw new OccupiedCellException();
+                    throw new OccupiedCellException("The cell " + step + " is already occupied");
                 }
             }
         }
